@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Jangan Pernah Ganti Author
-# Salam Sans
+# Salam MR.RISOL
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -46,7 +46,7 @@ def jalan(z):
 		time.sleep(0.05)
 		
 #jangan pernah ganti authornya dibagian ini !!!		
-logo = " \n\033[1;97m█████████\n\033[1;97m█▄█████▄█      \033[1;96m●▬▬▬▬▬▬▬▬▬๑🔱๑▬▬▬▬▬▬▬▬●\n\033[1;97m█\033[1;91m▼▼▼▼▼ \033[1;97m- _ --_--\033[1;92m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n\033[1;97m█ \033[1;97m \033[1;97m_-_-- -_ --__\033[1;92m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n\033[1;97m█\033[1;91m▲▲▲▲▲\033[1;97m--  - _ --\033[1;92m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;93mELITE v2.1\n\033[1;97m█████████      \033[1;96m●▬▬▬▬▬▬▬▬▬๑🔱๑▬▬▬▬▬▬▬▬●\n\033[1;97m ██ ██\n\033[1;97m╔════════════════════════════════════════╗\n\033[1;97m║\033[1;93m* \033[1;97mAuthor  \033[1;91m: \033[1;96mSANSBAE \033[1;97m                    ║\n\033[1;97m║\033[1;93m* \033[1;97mGithub  \033[1;91m: \033[1;96mhttps://github.com/SansBae\033[1;97m  ║\n\033[1;97m║\033[1;93m* \033[1;97mFB      \033[1;91m: \033[1;92m\033[4mhttps://fb.me/anbia.sans\033[0m    \033[1;97m║\n\033[1;97m║\033[1;93m* \033[1;97mVersion \033[1;91m: \033[1;92m\033[4m2.1\033[0m                         \033[1;97m║\n\033[1;97m╚════════════════════════════════════════╝"  '\n\033[1;33m[✓] Buat Akun Baru Jika Tidak Ingin Checkpoint' '\n\033[1;33m[?] Subscribe Channel SANSBAE Bro!!' '\n\033[1;33m[!] Share Bro Agar Kita Makin Maju'
+logo = " \n\033[1;97m█████████\n\033[1;97m█▄█████▄█      \033[1;96m●▬▬▬▬▬▬▬▬▬๑🔱๑▬▬▬▬▬▬▬▬●\n\033[1;97m█\033[1;91m▼▼▼▼▼ \033[1;97m- _ --_--\033[1;92m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ \n\033[1;97m█ \033[1;97m \033[1;97m_-_-- -_ --__\033[1;92m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗\n\033[1;97m█\033[1;91m▲▲▲▲▲\033[1;97m--  - _ --\033[1;92m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;93mELITE v2.1\n\033[1;97m█████████      \033[1;96m●▬▬▬▬▬▬▬▬▬๑🔱๑▬▬▬▬▬▬▬▬●\n\033[1;97m ██ ██\n\033[1;97m╔════════════════════════════════════════╗\n\033[1;97m║\033[1;93m* \033[1;97mAuthor  \033[1;91m: \033[1;96mMR.SOL \033[1;97m                    ║\n\033[1;97m║\033[1;93m* \033[1;97mGithub  \033[1;91m: \033[1;96mhttps://github.com/MRirwan002\033[1;97m  ║\n\033[1;97m║\033[1;93m* \033[1;97mFB      \033[1;91m: \033[1;92m\033[4mhttps://fb.me/WansHR\033[0m    \033[1;97m║\n\033[1;97m║\033[1;93m* \033[1;97mVersion \033[1;91m: \033[1;92m\033[4m2.1\033[0m                         \033[1;97m║\n\033[1;97m╚════════════════════════════════════════╝"  '\n\033[1;33m[✓] Buat Akun Baru Jika Tidak Ingin Checkpoint' '\n\033[1;33m[?] Subscribe Channel MR.SOL Bro!!' '\n\033[1;33m[!] Share Bro Agar Kita Makin Maju'
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -73,7 +73,7 @@ def siapa():
 		siapa()
 	else:
 		os.system('clear')
-		jalan("\033[1;97mSelamat Datang \033[31;1m" +nama + "\n\033[1;97mJangan BarBar Kali Kau,Salam SANSBAE \nSubscribe Channel SANSBAE dulu Sob!! \nBuruan search sono coeg!! \nOH iya sedikit penjelasan nih coeg \nWarna Hijau Pada Akun yang sedang dihack \nTandanya Akun Sedang Online,Jadi \nBerkemungkinan Checkpoint Ya boss \nSebaliknya Jika Akun Yang Dihack \nBerwarna Kuning Maka Akun Sedang Offline \nAkun Bisa Langsung Dipakai Ya")
+		jalan("\033[1;97mSelamat Datang \033[31;1m" +nama + "\n\033[1;97mJangan BarBar Kali Kau,Salam MR.SOL \nSubscribe Channel MR.SOL dulu Sob!! \nBuruan search sono coeg!! \nOH iya sedikit penjelasan nih coeg \nWarna Hijau Pada Akun yang sedang dihack \nTandanya Akun Sedang Online,Jadi \nBerkemungkinan Checkpoint Ya boss \nSebaliknya Jika Akun Yang Dihack \nBerwarna Kuning Maka Akun Sedang Offline \nAkun Bisa Langsung Dipakai Ya")
 		time.sleep(2)
 		loginSC()
 		
@@ -81,16 +81,16 @@ def siapa():
 def loginSC():
 	os.system('clear')
 	jalan ("\033[33;1m*Baca Sebelum Menggunakan Script Ini!!\nSebelum Kalian Hack Akun Fb Orang Lain \nKalian Harus Memasukan Username & Passwordnya \nJika Kalian Tidak Mempunyai Lisensinya \nKalian langsung lihat Username Dan Passwordnya \nDi Website, Otomatis Akan Di Alihkan ke Websitenya\nJangan Subscribe Selain Dari Channel SANSBAE \nWaspada Reuploader DI mana mana coeg\nBerkaryalah, tanpa menggunakan karya orang lain bro !!! \nJangan Menjadi Youtubers Sampah \nYang Hanya Menjiplak Karya Orang Lain \nSubscribe Hanya Di Channel SANSBAE \nBukan Yang Lain Oke \nThanks For ALLAH SWT.............")
-	os.system('xdg-open https://cyberinfo25.blogspot.com/2020/05/script-dark-fb-terbaru-anti-checkpoint_31.html')
+
         username = raw_input("\033[1;96m[*] \033[1;97mUsername \033[1;91m: \033[1;92m")
 	password = raw_input("\033[1;96m[*] \033[1;97mPassword \033[1;91m: \033[1;92m")
-	if username =="iribilangboss" and password =="bukaneditorberkelas":
+	if username =="MR" and password =="SOL":
 		print"\033[1;96m[✓] \033[1;92mLogin berhasil"
 		time.sleep(1)
 		masuk()
 	else:
 		print"\033[1;96m[!] \033[1;91mSalah!!"
-		os.system('xdg-open https://cyberinfo25.blogspot.com/2020/05/script-dark-fb-terbaru-anti-checkpoint_31.html')
+	
                 time.sleep(1)
                 LoginSC()
 
